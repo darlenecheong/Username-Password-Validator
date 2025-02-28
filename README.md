@@ -15,7 +15,7 @@ The username and password validation functions effectively met the security requ
 <br><br>
 
 ## Output
-![Username and Password Validator Output](Username-Password-Validator.png)
+![Username and Password Validator Output](Username-Password-Validator-Output.png)
 <br><br>
 
 ## Language Used
