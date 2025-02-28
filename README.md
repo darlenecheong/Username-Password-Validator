@@ -2,6 +2,10 @@
 This Python script validates usernames and passwords based on specific criteria (such as length, character types, and restrictions) and provides a function to generate secure passwords that meet all requirements.
 <br><br>
 
+## Python Script
+Please view the Python script 🔗[here](Username-Password-Validator.py).
+<br><br>
+
 ## Context
 This project was developed as part of a Python course, focusing on building a system for validating usernames and passwords with secure standards. The objective was to ensure that usernames and passwords meet common security requirements, preventing weak credentials. The username validation function checks factors such as length, character variety (uppercase, lowercase, and digits), and ensures the username does not start or end with a digit. Similarly, the password validation function enforces rules for length, inclusion of uppercase and lowercase letters, digits, and special characters. To aid users who struggle to meet these criteria, the system also includes a password generator feature. This project serves as an exercise in applying Python to solve real-world security challenges by creating a tool that ensures user credentials are both secure and easy to manage.
 
